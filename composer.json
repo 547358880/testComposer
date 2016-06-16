@@ -1,5 +1,5 @@
 {
-	"name": "xujing/cakephp",
+	"name": "xujing/study-cake",
 	"description": "In order to study cakephp",
     "autoload": {
         "psr-4": {
