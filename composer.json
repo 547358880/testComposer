@@ -1,0 +1,15 @@
+{
+	"name": "xujing/cakephp",
+	"description": "In order to study cakephp",
+    "autoload": {
+        "psr-4": {
+            "Cake\\": "src"
+        },
+        "files": [
+            // "src/Core/functions.php",
+            // "src/Collection/functions.php",
+            // "src/I18n/functions.php",
+            // "src/Utility/bootstrap.php"
+        ]
+    }
+}
